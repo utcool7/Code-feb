@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 #include <boost/math/common_factor.hpp>
+#define deb(x) cout << #x << "=" << x << endl
+#define deb2(x, y) cout << #x << "=" << x << "," << #y << "=" << y << endl
 using namespace std;
 int main()
 {
